@@ -271,16 +271,34 @@ div#preloader {
   color: #3ec1d5;
 }
 
+.adheera-logo {
+  display: inline-block;
+   margin-top:-32%!important;
+}
+
+#header .logo h5 {
+  color: #fff;
+  text-decoration: none;
+}
+#header .logo h5 span {
+  color: #3ec1d5;
+}
+
 #header .logo h1 a,
 #header .logo h1 a:hover {
   color: #fff;
   text-decoration: none;
 }
 
+.margin-top10 h5 {
+display: inline-block !important;
+margin-top: 10% !important;
+}
+
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 70px;
 }
 
 @media (max-width: 768px) {
