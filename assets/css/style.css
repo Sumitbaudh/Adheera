@@ -256,7 +256,7 @@ div#preloader {
 
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.8);
-  height: 64px;
+  /* height: 64px; */
 }
 
 #header .logo h1 {
@@ -273,7 +273,7 @@ div#preloader {
 
 .adheera-logo {
   display: inline-block;
-   margin-top:-32%!important;
+   margin-top:-35%!important;
 }
 
 #header .logo h5 {
